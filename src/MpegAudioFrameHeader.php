@@ -15,7 +15,7 @@
  *  You should have received a copy of the GNU Lesser General Public License
  *  along with PHP-MP3 library. If not, see <http://www.gnu.org/licenses/>.
  */
-namespace falahati\PHPMP3 {
+namespace MP3 {
 
 	/**
 	 * This class represents a MPEG audio frame's header
