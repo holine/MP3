@@ -7,7 +7,7 @@
   "authors": [
     {
       "name": "Soroush Falahati",
-      "homepage": "https://falahati.net"
+      "homepage": "https://holine.studio"
     }
   ],
   "support": {
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "falahati\\PHPMP3\\": "src/"
+      "MP3\\": "src/"
     }
   },
   "repositories": [
