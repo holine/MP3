@@ -176,7 +176,7 @@ namespace falahati\PHPMP3 {
 		 * @param int $index
 		 * @return int
 		 */
-		private function slice($length = 0, $index = -1) {
+		public function slice($length = 0, $index = -1) {
 			if ($this->resource === null) {
 				if ($index < 0) {
 					$index = $this->memoryPointer;
