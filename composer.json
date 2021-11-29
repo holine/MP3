@@ -1,7 +1,7 @@
 {
-  "name": "falahati/php-mp3",
+  "name": "holine/mp3",
   "description": "PHP-MP3 is a simple library for reading and manipulating MPEG audio (MP3)",
-  "homepage": "https://github.com/falahati/PHP-MP3",
+  "homepage": "https://github.com/holine/MP3",
   "keywords": [ "mp3", "audio", "edit" ],
   "license": "LGPL-3.0",
   "authors": [
@@ -11,8 +11,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/falahati/PHP-MP3/issues",
-    "source": "https://github.com/falahati/PHP-MP3"
+    "issues": "https://github.com/holine/MP3/issues",
+    "source": "https://github.com/holine/MP3"
   },
   "require": {
     "php": ">=5.4"
@@ -28,7 +28,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/falahati/PHP-MP3"
+      "url": "https://github.com/holine/MP3"
     }
   ]
 }
